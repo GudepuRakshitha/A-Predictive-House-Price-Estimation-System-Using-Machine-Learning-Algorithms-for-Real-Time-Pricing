@@ -53,14 +53,17 @@ Features:
 - Amenities: Garden, Parking, Modular Kitchen
 
  ## Future Enhancements
-🌍 Integrate live housing price APIs for up-to-date data
-🧮 Use advanced algorithms like XGBoost or LightGBM
-🗺️ Add map-based visualization for property locations
-🏗️ Extend to rental price prediction
-📱 Mobile app version for real estate agents and customers
+- 🌍 Integrate live housing price APIs for up-to-date data
+- 🧮 Use advanced algorithms like XGBoost or LightGBM
+- 🗺️ Add map-based visualization for property locations
+- 🏗️ Extend to rental price prediction
+- 📱 Mobile app version for real estate agents and customers
 
 ## 👩‍💻 Author
 Gudepu Rakshitha Reddy
+
 📧 rakshithareddy1985@gmail.com
+
 🔗 Hugging Face Profile: https://huggingface.co/GudepuRakshithaReddy
+
 🔗 LinkedIn:https://www.linkedin.com/in/gudepu-rakshitha-reddy-516aa72a9/
